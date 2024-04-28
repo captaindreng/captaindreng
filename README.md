@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... web d 
 - 💞️ I’m looking to collaborate on ... cool projects on mern stcks
 - 📫 How to reach me ... dm me hii at @captain_dreng
-- 😄 Pronouns: ... jaat
+- 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... i do crazy stuff
 
 <!---
