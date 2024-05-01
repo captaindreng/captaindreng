@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @captaindreng
 - 👀 I’m interested in ... plane and flying them
 - 🌱 I’m currently learning ... web d 
-- 💞️ I’m looking to collaborate on ... cool projects on mern stcks
+- 💞️ I’m looking to collaborate on ... cool projects on mern stacks
 - 📫 How to reach me ... dm me hii at @captain_dreng
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... i do crazy stuff
